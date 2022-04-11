@@ -1,0 +1,22 @@
+.foto-perfil{
+    border-radius: 100%;
+    max-width: 150px;
+    border: 1px solid black;
+}
+
+body{
+    background-color: darkgray;
+    font-style: normal;
+    font-family: Geneva;
+    font-variant: small-caps;
+    font-size: larger;
+}
+
+.container{
+    max-width: 960px;
+    width: 95%;
+    padding: 5%;
+    margin: 10px; auto;
+    border: 2px solid black;
+    text-align: center;
+}
